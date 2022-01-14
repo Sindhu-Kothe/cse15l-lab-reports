@@ -1,4 +1,7 @@
-# Lab Report 1
+Lab Report 1
+
+
+Tutorial about how to log on to ieng6
 
 ## Installing VSCode. 
 ![Image](SS1.png)
@@ -39,6 +42,11 @@
 
 
 ## Moving some files with scp
+![Image](SS4.png)
+
+* The command to copy files from one computer to a remote computer is called scp. 
+
+* In the screenshot, we see that the variables that print out the locations of the file change. The first time, it prints out the details of my laptop. The second time, the details of the server are shown. 
 
 
 ## Setting an SSH key 
