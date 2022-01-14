@@ -82,7 +82,6 @@ $ cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI
 ```
 
 * If you run a command in quotes, the command will run on the remote server and exit. 
-
 ```
 $ ssh cs15lwi22@ieng6.ucsd.edu "ls"
 ```
