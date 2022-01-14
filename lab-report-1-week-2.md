@@ -1,8 +1,6 @@
 Lab Report 1
 
 
-Tutorial about how to log on to ieng6
-
 ## Installing VSCode. 
 ![Image](SS1.png)
 
@@ -50,5 +48,25 @@ Tutorial about how to log on to ieng6
 
 
 ## Setting an SSH key 
+![Image](SS5.png)
+
+* The command that was used was 
+> ssh-keygen
+
+this command generates a public key and a private key. The private key will be stored on one location in the client while the public key will be stored in one location on the server. The ssh command sets up a communication between these two keys. 
+
+* The commands to copy the public key onto the account on the server is as show. (This was taken from the class website):
+
+```
+$ ssh cs15lwi22zz@ieng6.ucsd.edu
+<Enter Password>
+# now on server
+$ mkdir .ssh
+$ <logout>
+# back on client
+$ scp /Users/joe/.ssh/id_rsa.pub cs15lwi22@ieng6.ucsd.edu:~/.ssh/authorized_keys
+# You use your username and the path you saw in the command above
+```
+
 
 ## Optimizing remote running
