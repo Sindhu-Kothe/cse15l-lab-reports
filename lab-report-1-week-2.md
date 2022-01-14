@@ -1,5 +1,7 @@
 # Lab Report 1
 
+
+
 Some of the information on this page is referenced from the class website. 
 
 
