@@ -1,6 +1,6 @@
-Lab Report 1
+# Lab Report 1
 
-# Installing VSCode. 
+## Installing VSCode. 
 ![Image](SS1.png)
 
 * To install VSCode, go to this [link](https://code.visualstudio.com/)
@@ -10,7 +10,7 @@ Lab Report 1
 * VSCode could be used to edit Java files and GitHub pages, like this one. 
 
 
-# Remoteley Connecting
+## Remoteley Connecting
 ![Image](SS2.png)
 
 * I am using a Mac so I do not need to install OpenSSH but if you are using a Windows laptop, go to this [link](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
@@ -22,12 +22,25 @@ Lab Report 1
 
 
 
-# Trying Some Commands
+## Trying Some Commands
+![Image](SS3.png)
+* Different commands show different aspects of the file that is being run. 
+
+* These are what some of the commands do:
+    * cd ~ : change to home directory. 
+    * cd: change directory
+    * ls: lists all the files in current directory
+        * ls - l: all the info about the file, long listed
+        * ls-a: shows all the hidden files starting with .
+        * ls-lt: lists all the files and when you last edited them in order of when they were last edited
+    * pwd: **p**resent **w**orking **d**irectory
 
 
-# Moving some files with scp
 
 
-# Setting an SSH key 
+## Moving some files with scp
 
-# Optimizing remote running
+
+## Setting an SSH key 
+
+## Optimizing remote running
