@@ -1,4 +1,4 @@
-Lab Report 1
+# Lab Report 1
 
 
 ## Installing VSCode. 
@@ -70,3 +70,4 @@ $ scp /Users/joe/.ssh/id_rsa.pub cs15lwi22@ieng6.ucsd.edu:~/.ssh/authorized_keys
 
 
 ## Optimizing remote running
+
