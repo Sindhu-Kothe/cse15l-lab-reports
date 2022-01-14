@@ -1,5 +1,7 @@
 # Lab Report 1
 
+Some of the information on this page is referenced from the class website. 
+
 
 ## Installing VSCode. 
 ![Image](SS1.png)
@@ -70,4 +72,15 @@ $ scp /Users/joe/.ssh/id_rsa.pub cs15lwi22@ieng6.ucsd.edu:~/.ssh/authorized_keys
 
 
 ## Optimizing remote running
+![Image](SS6.png)
 
+* You can run multiple commands using the ;
+```
+$ cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI
+```
+
+* If you run a command in quotes, the command will run on the remote server and exit. 
+
+```
+$ ssh cs15lwi22@ieng6.ucsd.edu "ls"
+```
