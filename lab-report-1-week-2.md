@@ -27,6 +27,8 @@ Some of the information on this page is referenced from the class website.
 ```
 $ ssh cs15lwi22zz@ieng6.ucsd.edu
 ```
+
+
 ![Image](SS2.png)
 
 
