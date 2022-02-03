@@ -37,13 +37,13 @@ $ ssh cs15lwi22zz@ieng6.ucsd.edu
 * Different commands show different aspects of the file that is being run. 
 
 * These are what some of the commands do:
-    * cd ~ : change to home directory. 
-    * cd: change directory
-    * ls: lists all the files in current directory
-        * ls - l: all the info about the file, long listed
-        * ls-a: shows all the hidden files starting with .
-        * ls-lt: lists all the files and when you last edited them in order of when they were last edited
-    * pwd: **p**resent **w**orking **d**irectory
+    * ```cd ~  ```: change to home directory. 
+    * ```cd ```: change directory
+    * ```ls ```: lists all the files in current directory
+        * ```ls - l```: all the info about the file, long listed
+        * ```ls - a```: shows all the hidden files starting with .
+        * ```ls-lt``` : lists all the files and when you last edited them in order of when they were last edited
+    * ```pwd```: **p**resent **w**orking **d**irectory
 
 ![Image](SS3.png)
 
