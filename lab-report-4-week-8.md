@@ -2,7 +2,7 @@
 
 
 
-The link of the repository that I reviewed: https://github.com/Darrengn/markdown-parse
+The link of the repository that I reviewed: [https://github.com/Darrengn/markdown-parse](https://github.com/Darrengn/markdown-parse)
 
 ## Snippet 1
 
@@ -11,13 +11,13 @@ The test failed:
 
 ![Image](SS4_1.png)
 
-Code changes: I did not account for backticks in my implemntation of the code. This is is why the first link was counted. To fix this, I need to add a couple of if statements that would be scattered accross the code. 
+Code changes: I did not account for backticks in my implemntation of the code. This is is why the first link was counted. To fix this, I need to add a couple of if statements that would be scattered accross the code. I think this could be done in a little more that 10 lines of code
 
 ### The code that I reviewed
 The test failed: 
 
 ![Image](SS4_4.png)
-Code changes. even they did not account for backticks. Like I said above, it would take around 10 lines for them to include code that takes backticks into account. 
+Code changes: even they did not account for backticks. Like I said above, it would take around 10 lines for them to include code that takes backticks into account. 
 
 ## Snippet 2
 
@@ -34,7 +34,7 @@ The test failed:
 ![Image](SS4_5.png)
 
 Code changes: 
-They aso had the same problem with their code. They did not account for an empty open and close parenthesis. Like i mentioned before, I am not sure if it could be done in less than 10 lines
+They aso had the same problem with their code. They did not account for an empty open and close parenthesis. Like I mentioned before, I am not sure if it could be done in less than 10 lines
 
 ## Snippet 3
 
