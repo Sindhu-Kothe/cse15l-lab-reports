@@ -4,7 +4,13 @@
 
 The link of the repository that I reviewed: [https://github.com/Darrengn/markdown-parse](https://github.com/Darrengn/markdown-parse)
 
+The link to my repository: [https://github.com/Sindhu-Kothe/markdown-parse1](https://github.com/Sindhu-Kothe/markdown-parse1)
+
 ## Snippet 1
+### Screenshot of the test:
+![Image](SS4_7.png)
+
+This screenshot contains the expected output too.
 
 ### My code
 The test failed: 
@@ -20,6 +26,10 @@ The test failed:
 Code changes: even they did not account for backticks. Like I said above, it would take around 10 lines for them to include code that takes backticks into account. 
 
 ## Snippet 2
+### Screenshot of the test:
+![Image](SS4_8.png)
+
+This screenshot contains the expected output too.
 
 ### My code
 The test failed: 
@@ -37,6 +47,10 @@ Code changes:
 They aso had the same problem with their code. They did not account for an empty open and close parenthesis. Like I mentioned before, I am not sure if it could be done in less than 10 lines
 
 ## Snippet 3
+### Screenshot of the test:
+![Image](SS4_9.png)
+
+This screenshot contains the expected output too.
 
 ### My code
 The test failed: 
